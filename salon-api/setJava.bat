@@ -1,0 +1,1 @@
+set JAVA_HOME=C:\Program Files\AdoptOpenJDK\jre-14.0.1.7-hotspot
